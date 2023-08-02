@@ -1,0 +1,29 @@
+.list-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.name {
+  color: white;
+  font-size: 15px;
+  margin-left: 30px;
+}
+.visit-btn {
+  background-color: #3b82f6;
+  height: 30px;
+  width: 70px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: white;
+  margin-right: 30px;
+}
+.visited-text {
+  color: #94a3b8;
+  margin-right: 40px;
+}
+.line {
+  background-color: #334155;
+  width: 100%;
+  color: pink;
+}
